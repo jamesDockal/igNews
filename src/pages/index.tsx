@@ -7,6 +7,7 @@ const Home = ({}) => {
       <Head>
         <title>Inicio | Ig.News</title>
       </Head>
+      <h1>testade</h1>
     </>
   );
 };
