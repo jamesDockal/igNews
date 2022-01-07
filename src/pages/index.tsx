@@ -15,7 +15,6 @@ type Props = {
 };
 
 const Home = ({ product }: Props) => {
-  console.log("product", product);
   return (
     <>
       <Head>
